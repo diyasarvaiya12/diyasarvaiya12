@@ -71,6 +71,14 @@
 <br/>
 
 ---
+<h3 align="center">Developer Mood Board</h3>
+
+<p align="center">
+  Powered by coffee and delayed sleep cycles <br/>
+  Overthinking logic, underthinking UI <br/>
+  Fixing one bug, accidentally discovering two more <br/>
+  Clean code > clever code (always)
+</p>
 
 ## 🤝 Let's Connect
 
