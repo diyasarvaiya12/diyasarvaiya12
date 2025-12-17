@@ -74,17 +74,25 @@
 <h3 align="center">Developer Mood Board</h3>
 
 <div align="center">
-  <table>
+  <table cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:10px;">
-        <b>Powered by coffee & delayed sleep cycles</b><br/><br/>
-        Overthinking logic, underthinking UI<br/>
-        Fixing one bug, accidentally discovering two more<br/>
-        Clean code &gt; clever code (always)
+      <td align="center" style="
+        padding:18px 22px;
+        border:1px solid #3d444d;
+        border-radius:14px;
+        background-color:#0d1117;
+        font-size:14px;
+        line-height:1.6;
+      ">
+        ☕ <b>Powered by coffee & delayed sleep cycles</b><br/>
+        🧠 Overthinking logic, underthinking UI<br/>
+        🐛 Fixing one bug, accidentally discovering two more<br/>
+        ✨ Clean code &gt; clever code (always)
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🤝 Let's Connect
