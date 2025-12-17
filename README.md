@@ -1,11 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 <body>
     <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I+am+a+Developer;I+Love+Open+Source;Welcome+to+my+profile" alt="Typing SVG" />
