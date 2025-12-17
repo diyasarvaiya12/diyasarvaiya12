@@ -73,12 +73,19 @@
 ---
 <h3 align="center">Developer Mood Board</h3>
 
-<p align="center">
-  Powered by coffee and delayed sleep cycles <br/>
-  Overthinking logic, underthinking UI <br/>
-  Fixing one bug, accidentally discovering two more <br/>
-  Clean code > clever code (always)
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:10px;">
+        <b>Powered by coffee & delayed sleep cycles</b><br/><br/>
+        Overthinking logic, underthinking UI<br/>
+        Fixing one bug, accidentally discovering two more<br/>
+        Clean code &gt; clever code (always)
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🤝 Let's Connect
 
