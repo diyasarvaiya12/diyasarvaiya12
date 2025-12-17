@@ -1,9 +1,6 @@
 <div align="center">
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=520&lines=Hi+there!+👋;I+am+a+Developer;I+Love+Open+Source;Welcome+to+my+profile" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Diya!" /
 
 </div>
 
@@ -17,19 +14,16 @@
 
 ---
 
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=diyasarvaiya12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-    height="155" 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=diyasarvaiya12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="155"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyasarvaiya12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-    height="155" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyasarvaiya12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="155"
   />
-
-</p>
+</div>
 
 ---
 
