@@ -6,6 +6,16 @@
 <br/>
 
 ---
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=diyasarvaiya12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="155"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyasarvaiya12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="155"
+  />
+</div>
 
 ## 🛠 Tech Stack & Tools
 
